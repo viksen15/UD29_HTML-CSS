@@ -1,0 +1,20 @@
+html{
+    background-color: rgb(255, 244, 215);
+    opacity: 0.6;   
+}
+h1{
+    background-color:rgb(214, 163, 21);
+    font-size: 20px;
+}
+h2{
+    color:cornflowerblue;
+    font-style: oblique;
+}
+dt{
+    font-weight: bold;
+    color:rgb(40, 82, 160);
+}
+p1{
+    font-style: italic;
+    color:rgb(41, 98, 202);
+}
